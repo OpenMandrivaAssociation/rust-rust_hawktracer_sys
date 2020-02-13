@@ -1,0 +1,11 @@
+--- rust_hawktracer_sys-0.4.2/Cargo.toml        2020-01-20T22:50:37+00:00
++++ rust_hawktracer_sys-0.4.2/Cargo.toml        2020-02-11T03:01:15.229842+00:00
+@@ -24,7 +24,7 @@
+ license = "MIT/Apache-2.0"
+ repository = "https://github.com/AlexEne/rust_hawktracer_sys"
+ [build-dependencies.bindgen]
+-version = "0.37.0"
++version = "0.52.0"
+ optional = true
+ 
+ [build-dependencies.cmake]
